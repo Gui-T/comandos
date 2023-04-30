@@ -17,6 +17,6 @@
 * curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash --> **Instala o nvm mas não no windows**
 * https://github.com/coreybutler/nvm-windows/releases --> **nvm-setup.exe, pra instala no windows**
 * npx expo install react-dom react-native-web @expo/webpack-config --> **Permite abrir na web.**
-* npm run start **começa**
-* npm install ** instala**
-* npm install expo ** instala o expo**
+* npm install --> **instala**
+* npm install expo -->  **instala o expo**
+* npm run start --> **começa**
