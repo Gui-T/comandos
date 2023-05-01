@@ -22,3 +22,4 @@
 * npm install expo -->  **Instala o expo.**
 * npm run start --> **Começa.**
 * https://github.com/oblador/react-native-vector-icons --> **Uns icones e outras coisas poggers.**
+* https://oblador.github.io/react-native-vector-icons/ --> **Todos os icones necessários, só pesquisar.**
